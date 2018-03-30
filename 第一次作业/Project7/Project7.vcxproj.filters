@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C语言.c">
+    <ClCompile Include="圆面积.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
