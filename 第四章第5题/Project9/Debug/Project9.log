@@ -1,0 +1,4 @@
+﻿  习题第5题.c
+d:\github\c\第四章第5题\project9\习题第5题.c(14): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  Project9.vcxproj -> D:\github\C\第四章第5题\Debug\Project9.exe
+  Project9.vcxproj -> D:\github\C\第四章第5题\Debug\Project9.pdb (Partial PDB)
